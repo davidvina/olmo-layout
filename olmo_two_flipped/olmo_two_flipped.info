@@ -1,0 +1,22 @@
+type = layout
+name = olmo 1/1/2/1/1 flipped
+version = BACKDROP_VERSION
+backdrop = 1.x
+
+; Specify regions for this layout.
+regions[header]  = Header
+regions[top]     = Top
+regions[sidebar] = Sidebar
+regions[content] = Content
+regions[bottom]  = Bottom
+regions[footer]  = Footer
+
+; The default region automatically receives the "Main Content" block if needed.
+; Modify this line if you would like to change the default in this layout.
+default region = content
+
+; Preview
+preview = preview.png
+
+project = olmo layout
+version = 1.x
