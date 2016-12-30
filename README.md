@@ -1,6 +1,7 @@
 Olmo Layout
 ===
 Three layouts:
+
 1. One column
 2. Two columns with left sidebar
 2. Two columns with right sidebar
